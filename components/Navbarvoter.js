@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from '../public/logo.png'
 import Image from 'next/image'
 import { MdDomainVerification } from 'react-icons/md'
 import { BsFillPersonPlusFill } from 'react-icons/bs'
