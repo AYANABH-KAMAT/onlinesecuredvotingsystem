@@ -7,7 +7,7 @@ This README file directs you how to install this project and the various depende
 
 Clone this repository in your local system by running the following command in your preferable terminal.
 ```bash
-git clone https://github.com/AYANABH-KAMAT/onlinesecuredvotingsystem.git 
+git clone https://github.com/ayanabhkamat/onlinesecuredvotingsystem.git 
 ```
 After cloning the repository, move into the directory by the following command 
 ```bash
